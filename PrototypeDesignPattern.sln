@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HiddenFieldExample", "HiddenFieldExample\HiddenFieldExample.csproj", "{8431B8F9-39F2-4C2A-945E-E90616CE76E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NestedObjectsExample", "NestedObjectsExample\NestedObjectsExample.csproj", "{CA047F32-A378-4B20-963D-86197537E03A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HiddenFieldWithICloneableExample", "HiddenFieldWithICloneableExample\HiddenFieldWithICloneableExample.csproj", "{2659CFBB-580B-41D9-80AA-3FE76A5F902D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedObjectsWithICloneableExample", "NestedObjectsWithICloneableExample\NestedObjectsWithICloneableExample.csproj", "{08F6C419-FA7C-46C3-83F0-E00B8557611D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiddenFieldEnhancedExample", "HiddenFieldEnhancedExample\HiddenFieldEnhancedExample.csproj", "{80CFB27E-4138-4A6E-846B-F80C7720B9A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedObjectsEnhancedExample", "NestedObjectsEnhancedExample\NestedObjectsEnhancedExample.csproj", "{D95C7BAC-0706-4651-90B8-215DCD86446E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8431B8F9-39F2-4C2A-945E-E90616CE76E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8431B8F9-39F2-4C2A-945E-E90616CE76E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8431B8F9-39F2-4C2A-945E-E90616CE76E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8431B8F9-39F2-4C2A-945E-E90616CE76E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA047F32-A378-4B20-963D-86197537E03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA047F32-A378-4B20-963D-86197537E03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA047F32-A378-4B20-963D-86197537E03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA047F32-A378-4B20-963D-86197537E03A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2659CFBB-580B-41D9-80AA-3FE76A5F902D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2659CFBB-580B-41D9-80AA-3FE76A5F902D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2659CFBB-580B-41D9-80AA-3FE76A5F902D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2659CFBB-580B-41D9-80AA-3FE76A5F902D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08F6C419-FA7C-46C3-83F0-E00B8557611D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F6C419-FA7C-46C3-83F0-E00B8557611D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F6C419-FA7C-46C3-83F0-E00B8557611D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F6C419-FA7C-46C3-83F0-E00B8557611D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80CFB27E-4138-4A6E-846B-F80C7720B9A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CFB27E-4138-4A6E-846B-F80C7720B9A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CFB27E-4138-4A6E-846B-F80C7720B9A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CFB27E-4138-4A6E-846B-F80C7720B9A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D95C7BAC-0706-4651-90B8-215DCD86446E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95C7BAC-0706-4651-90B8-215DCD86446E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95C7BAC-0706-4651-90B8-215DCD86446E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95C7BAC-0706-4651-90B8-215DCD86446E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08E0739D-2922-41A2-82F9-6C0F3232059D}
+	EndGlobalSection
+EndGlobal

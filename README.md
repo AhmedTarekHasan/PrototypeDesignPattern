@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/prototype-design-pattern-in-net-c-67db46c3d28f?sk=d6eb50bc020a4cc5f5d04d79c80c7e21" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/prototype-design-pattern-in-net-c" />
 
 # Prototype Design Pattern In .NET C#
 ### Learn about the Prototype Design Pattern in .NET C#
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*FI623dZ0DljA_PloNemtUw.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_14528fae6acb45bf86fc023eed16b5ea~mv2.png/v1/fill/w_828,h_552,al_c,q_90,enc_auto/488a99_14528fae6acb45bf86fc023eed16b5ea~mv2.png">
 </p>
 
 <br/>
@@ -41,4 +41,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/prototype-design-pattern-in-net-c-67db46c3d28f?sk=d6eb50bc020a4cc5f5d04d79c80c7e21
+[Article]: https://www.developmentsimplyput.com/post/prototype-design-pattern-in-net-c
